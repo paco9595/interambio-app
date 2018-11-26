@@ -1,0 +1,1 @@
+export { getSectretSantaList } from './SecretSanta'
